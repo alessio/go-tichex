@@ -43,7 +43,7 @@ require (
 	github.com/tendermint/tendermint v0.31.1
 	github.com/zondax/hid v0.9.0 // indirect
 	github.com/zondax/ledger-go v0.8.0 // indirect
-	golang.org/x/sys v0.0.0-20190329044733-9eb1bfa1ce65 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/genproto v0.0.0-20190327125643-d831d65fe17d // indirect
 	google.golang.org/grpc v1.19.1 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
