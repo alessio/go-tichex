@@ -11,7 +11,6 @@ require (
 	github.com/cosmos/go-bip39 v0.0.0-20180618194314-52158e4697b8 // indirect
 	github.com/cosmos/ledger-cosmos-go v0.9.8 // indirect
 	github.com/fortytw2/leaktest v1.3.0 // indirect
-	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/gorilla/mux v1.7.0 // indirect
 	github.com/gorilla/websocket v1.4.1 // indirect
@@ -26,7 +25,6 @@ require (
 	github.com/rakyll/statik v0.1.4 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20180503174638-e2704e165165 // indirect
 	github.com/rs/cors v1.6.0 // indirect
-	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cast v1.3.0 // indirect
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
@@ -39,9 +37,7 @@ require (
 	github.com/tendermint/tendermint v0.31.1
 	github.com/zondax/hid v0.9.0 // indirect
 	github.com/zondax/ledger-go v0.8.0 // indirect
-	golang.org/x/sys v0.1.0 // indirect
-	google.golang.org/genproto v0.0.0-20190327125643-d831d65fe17d // indirect
-	google.golang.org/grpc v1.19.1 // indirect
+	google.golang.org/grpc v1.53.0 // indirect
 )
 
 replace golang.org/x/crypto => github.com/tendermint/crypto v0.0.0-20180820045704-3764759f34a5
